@@ -1,6 +1,6 @@
 === Plugin Name ===
 Name: Transifex Live Wordpress Plugin
-Contributors: ThemeBoy, brianmiyaji, ayebare, matthewjackowski
+Contributors: ThemeBoy, brooksx, txmatthew
 Donate link: http://docs.transifex.com/developer/integrations/wordpress
 Tags: transifex, translate, translations, localize, localise, localization, localisation, l10n, i18n, language, switcher, live, translation, translator
 Requires at least: 3.0
@@ -9,16 +9,13 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-[What is Transifex?](https://www.transifex.com/product/)
-
-
-[What is Transifex Live?](https://www.transifex.com/product/transifexlive/)
+Transifex Live Integration plugin is a new, innovative way to localize your Wordpress website or blog. It eliminates the hassle of extracting phrases from your code for translation, dealing with system integrations, or waiting for the next deployment to take translations live.
 
 == Description ==
 
 In order to use Transifex Live you will need to [sign up here for a FREE account](https://www.transifex.com/signup/).  This plugin also requires a Transifex Live API key.  More information about how to obtain a key can be found in the [Transifex Live documentation here:](http://docs.transifex.com/developer/live/) if you don't have one yet.  
 
-== Features ==
+Features
 
 * Integrates Transifex Live into your WordPress site using your API key.
 * Display language selector in top left, top right, bottom left, or bottom right corner of your site.
@@ -26,7 +23,7 @@ In order to use Transifex Live you will need to [sign up here for a FREE account
 * Automatically identify new strings when page content changes.
 * Customize the language switcher by choosing your own color scheme.
 
-== Get Involved ==
+Get Involved
 
 Developers can contribute via the plugin's [GitHub Repository](https://github.com/transifex/transifex-live-wordpress).
 
