@@ -34,7 +34,7 @@ Minimum Requirements
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
 
-=== Installation ===
+== Installation ==
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Transifex Live, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
 
