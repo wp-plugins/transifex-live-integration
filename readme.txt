@@ -1,6 +1,6 @@
 === Plugin Name ===
 Name: Transifex Live Wordpress Plugin
-Contributors: ThemeBoy, brooksx, txmatthew
+Contributors: txmatthew, ThemeBoy, brooksx 
 Donate link: http://docs.transifex.com/developer/integrations/wordpress
 Tags: transifex, translate, translations, localize, localise, localization, localisation, l10n, i18n, language, switcher, live, translation, translator
 Requires at least: 3.0
@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Transifex Live Integration plugin is a new, innovative way to localize your Wordpress website or blog. It eliminates the hassle of extracting phrases from your code for translation, dealing with system integrations, or waiting for the next deployment to take translations live.
+Transifex Live Integration plugin is a new, innovative way to localize your WordPress website or blog.
 
 == Description ==
 
@@ -29,7 +29,7 @@ Developers can contribute via the plugin's [GitHub Repository](https://github.co
 
 Translators can contribute new languages to this plugin or our other WordPress plugins through [Transifex](https://www.transifex.com/projects/p/transifex-live/).
 
-== Minimum Requirements ==
+Minimum Requirements
 
 * WordPress 3.0 or greater
 * PHP version 5.2.4 or greater
@@ -37,13 +37,11 @@ Translators can contribute new languages to this plugin or our other WordPress p
 
 === Installation ===
 
-== Automatic Installation ==
-
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Transifex Live, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
 
 In the search field type "Transifex Live" and click Search Plugins. Once you’ve found the plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking Install Now. After clicking that link you will be asked if you’re sure you want to install the plugin. Click yes and WordPress will automatically complete the installation.
 
-== Manual Installation ==
+Manual Installation
 
 The manual installation method involves downloading the plugin and uploading it to your webserver via your favorite FTP application.
 
@@ -51,12 +49,12 @@ The manual installation method involves downloading the plugin and uploading it 
 2. Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation’s wp-content/plugins/ directory.
 3. Activate the plugin from the Plugins menu within the WordPress admin.
 
-== Upgrading ==
+Upgrading
 
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
 == Changelog ==
 
 = 1.0.0 =
-Full relase.  Restructured plugin to follow boilerplate.  Added unit tests.
+Full release.  Restructured plugin to follow boilerplate.  Added unit tests.
 
