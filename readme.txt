@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Transifex Live Integration plugin is a new, innovative way to localize your WordPress website or blog.
+The Transifex Live WordPress plugin is a new, innovative way to localize your WordPress website or blog.
 
 == Description ==
 
