@@ -54,6 +54,11 @@ Upgrading
 
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
+== Screenshots ==
+
+1. screenshot-1.jpg
+2. screenshot-2.jpg
+
 == Changelog ==
 
 = 1.0.0 =
