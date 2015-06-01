@@ -1,5 +1,5 @@
 === Plugin Name ===
-Name: Transifex Live Wordpress Plugin
+Name: Live Translation Plugin
 Contributors: txmatthew, ThemeBoy, brooksx 
 Tags: transifex, translate, translations, localize, localise, localization, localisation, l10n, i18n, language, switcher, live, translation, translator
 Requires at least: 3.0
@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Transifex Live WordPress plugin is a new, innovative way to localize your WordPress website or blog.
+The Live Translation Plugin uses Transifex Live, a new, innovative way to localize your WordPress website or blog.
 
 == Description ==
 
