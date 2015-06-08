@@ -12,7 +12,7 @@ The Live Translation Plugin uses Transifex Live, Transifex Live WordPress Plugin
 
 == Description ==
 
-In order to use Transifex Live you will need to [sign up here for a FREE account](https://www.transifex.com/signup/).  This plugin also requires a Transifex Live API key.  More information about how to obtain a key can be found in the [Transifex Live documentation](http://docs.transifex.com/developer/live/). 
+In order to use Transifex Live you will need to [sign up here for a FREE account](https://www.transifex.com/signup/?utm_source=liveplugin).  This plugin also requires a Transifex Live API key.  More information about how to obtain a key can be found in the [Transifex Live documentation](http://docs.transifex.com/developer/live/). 
 
 Features
 
